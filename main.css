@@ -11,8 +11,8 @@ body {
 }
 
 .content {
-	height: 100svh;
 	height: 100vh;
+	height: 100svh;
 	background-color: #ca1a1a;
 	display: flex;
 	justify-content: center;
